@@ -10,4 +10,4 @@ applications:
     REGISTRATION_SERVER_ENDPOINT: http://registration-pal-cm.apps.pikes.pal.pivotal.io/
   services:
   - tracker-timesheets-database
-  - tracker-server-registry
+  - tracker-service-registry
